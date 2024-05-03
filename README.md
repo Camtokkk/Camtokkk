@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Camtokkk
 - 👀 I’m interested in cooking
-- 🌱 I’m currently learning github
+- 🌱 I’m currently learning dev
 - 💞️ I’m looking to collaborate on dev
 - 📫 How to reach me : X 
 - 😄 Pronouns: he
